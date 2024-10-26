@@ -9,6 +9,8 @@ https://picsum.photos/
 
 # HTML
 
+durée: 3h
+
 ## Introduction
 - HTML : structure du document
 - CSS: style du document
